@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         //This is from swift+gif file
         imageView.loadGif(name: "google")
         
-        //This is a self-made animation from a variety of jpg's (The inscription(label) on the button is not visible because the animation overlaps with the inscription)
+        //This is a self-made animation from a variety of jpg's
         googleButton()
 
     }
